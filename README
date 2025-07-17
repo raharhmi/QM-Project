@@ -57,7 +57,7 @@
 -	مشاهده خروجی ساده شده 
 
 نمونه اجرا:
-(output.png)
+(images/output.png)
   
 توضیح کامل درباره کدهای پروژه:
 getPrimeImplicants (List<String> minterms)
